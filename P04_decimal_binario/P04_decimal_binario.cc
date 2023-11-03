@@ -34,7 +34,7 @@ int main() {
   // imprimirIntroduccion();
   int decimal {0};
   while (std::cin >> decimal) {
-  std::cout << decimalBinario(decimal) << std::endl;
+    std::cout << decimalBinario(decimal) << std::endl;
   }
   return 0;
 }
