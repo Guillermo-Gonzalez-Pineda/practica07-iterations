@@ -1,3 +1,14 @@
+/**
+  * Universidad de La Laguna
+  * Escuela Superior de Ingeniería y Tecnología
+  * Grado en Ingeniería Informática
+  * Informática Básica 2023-2024
+  *
+  * @file P02_cambiar_base.cc
+  * @author Guillermo Gonzalez Pineda alu0101574899@ull.edu.es
+  * @date 03/11/2023
+  */
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
